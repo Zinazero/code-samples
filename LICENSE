@@ -1,21 +1,26 @@
-MIT License
+# Portfolio Code Samples License
 
-Copyright (c) 2025 Jacob Hexamer
+**Copyright (c) 2025 Jacob Hexamer**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Permitted Uses
+Permission is hereby granted, free of charge, to any person obtaining a copy of this code sample repository, to:
+- View and study the code for educational purposes
+- Evaluate the code for employment, contracting, or collaboration opportunities
+- Reference the code in academic or professional discussions
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Restrictions
+You may **NOT**:
+- Use, copy, modify, distribute, sublicense, or sell this code for any commercial purpose
+- Create derivative works based on this code
+- Redistribute this code in any form without explicit written permission
+- Use this code in production systems or applications
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Contact for Permissions
+For any use beyond the permitted scope above, please contact:
+**jacobhexamer@gmail.com**
+
+## Disclaimer
+This code is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the copyright holder be liable for any claim, damages, or other liability arising from the use of this code.
+
+## Acknowledgment
+By accessing or using this code, you acknowledge that you have read, understood, and agree to be bound by these terms.
